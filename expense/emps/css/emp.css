@@ -1,0 +1,31 @@
+body {
+
+    direction: rtl;
+    margin-top: 3px;
+}
+
+.thead-success {
+    color: lightgreen;
+
+}
+
+nav {
+    right: 25rem;
+    display: inline-table;
+    position: absolute;
+    margin-top: 14rem;
+}
+
+button {
+    margin-left: 50px;
+}
+
+.btn-lg {
+    padding: 0 3rem 0 1rem;
+}
+
+
+table {
+
+    cursor: pointer;
+}
